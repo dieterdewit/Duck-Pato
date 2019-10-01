@@ -1,1 +1,1 @@
-![alt text](Assets/Images/Duck Pato.png)
+![alt text](Assets/Images/DuckPato.png)
